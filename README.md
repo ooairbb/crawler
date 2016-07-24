@@ -9,3 +9,6 @@
   
 # [主程式]
     /crawler/crawler
+    
+
+<img src="http://teed7334.com/public/rating.svg" />
